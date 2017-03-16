@@ -39,7 +39,7 @@ public class PersonMain {
             System.out.println("Elementul este pe pozitia: " + i);
             break;
         } else {
-            System.out.println("Next!!");
+            System.out.println("Next!");
         }
 
         return index;
